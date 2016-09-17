@@ -1,6 +1,6 @@
 # compuational_physics_N2014301020153
 * [Exercise_01]()
-* [Exercise_02]()
+* [Exercise_02](https://www.zybuluo.com/xunshuideyu/note/497144)
 * [Exercise_03]()
 * [Exercise_04]()
 * [Exercise_05]()
