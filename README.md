@@ -1,5 +1,5 @@
 # compuational_physics_N2014301020153
-* [Exercise_01:All levels]()
+* [Exercise_01]()
 * [Exercise_02]()
 * [Exercise_03]()
 * [Exercise_04]()
