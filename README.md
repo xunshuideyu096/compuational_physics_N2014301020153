@@ -2,7 +2,7 @@
 * Exercise_01
 * [Exercise_02](https://www.zybuluo.com/xunshuideyu/note/497144)
 * [Exercise_03](https://www.zybuluo.com/xunshuideyu/note/512776)
-* [Exercise_04]()
+* [Exercise_04](https://www.zybuluo.com/xunshuideyu/note/520797)
 * [Exercise_05]()
 * [Exercise_06]()
 * [Exercise_07]()
