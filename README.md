@@ -1,15 +1,8 @@
 # compuational_physics_N2014301020153
-* Exercise_01
-* [Exercise_02](https://www.zybuluo.com/xunshuideyu/note/497144)
-* [Exercise_03](https://www.zybuluo.com/xunshuideyu/note/512776)
-* [Exercise_04](https://www.zybuluo.com/xunshuideyu/note/520797)
-* [Exercise_05](https://www.zybuluo.com/xunshuideyu/note/533569)
-* [Exercise_06](https://www.zybuluo.com/xunshuideyu/note/542232)
-* [Exercise_07]()
-* [Exercise_08]()
-* [Exercise_09]()
-* [Exercise_10]()
-* [Exercise_11]()
-* [Exercise_12]()
-* [Exercise_13]()
-* [Exercise_14]()
+- [x] Exercise_01
+- [x] [Exercise_02](https://www.zybuluo.com/xunshuideyu/note/497144)
+- [x] [Exercise_03](https://www.zybuluo.com/xunshuideyu/note/512776)
+- [x] [Exercise_04](https://www.zybuluo.com/xunshuideyu/note/520797)
+- [x] [Exercise_05](https://www.zybuluo.com/xunshuideyu/note/533569)
+- [x] [Exercise_06](https://www.zybuluo.com/xunshuideyu/note/542232)
+
