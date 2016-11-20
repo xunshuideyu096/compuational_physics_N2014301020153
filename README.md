@@ -7,4 +7,5 @@
 - [x] [Exercise_05:Chapter2 problem 2.6](https://www.zybuluo.com/xunshuideyu/note/533569)
 - [x] [Exercise_06:Chapter2 peoblem 2.10](https://www.zybuluo.com/xunshuideyu/note/542232)
 - [x] [Exercise_07:Chapter3 problem 3.14](https://www.zybuluo.com/xunshuideyu/note/550297)
-- [x] [Exerciss_08:Chapter3 problem 3.18](https://www.zybuluo.com/xunshuideyu/note/565668)
+- [x] [Exercise_08:Chapter3 problem 3.18](https://www.zybuluo.com/xunshuideyu/note/565668)
+- [x] [Exercise_09:Chapter3 Problem 3.30](https://www.zybuluo.com/xunshuideyu/note/573453)
