@@ -9,3 +9,4 @@
 - [x] [Exercise_07:Chapter3 problem 3.14](https://www.zybuluo.com/xunshuideyu/note/550297)
 - [x] [Exercise_08:Chapter3 problem 3.18](https://www.zybuluo.com/xunshuideyu/note/565668)
 - [x] [Exercise_09:Chapter3 Problem 3.30](https://www.zybuluo.com/xunshuideyu/note/573453)
+- [x] [Exercise_10:Chapter4 Problem 4.9](https://www.zybuluo.com/xunshuideyu/note/580493)
