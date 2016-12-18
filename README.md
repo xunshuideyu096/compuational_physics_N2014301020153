@@ -1,4 +1,4 @@
-# compuational_physics_N2014301020153
+ # compuational_physics_N2014301020153
 - [x] Exercise_01
 - [x] [Exercise_02](https://www.zybuluo.com/xunshuideyu/note/497144)
 - [x] [Exercise_03](https://www.zybuluo.com/xunshuideyu/note/512776)
@@ -11,3 +11,4 @@
 - [x] [Exercise_10:Chapter4 Problem 4.9](https://www.zybuluo.com/xunshuideyu/note/580493)
 - [x] [Exercise_11:Chapter4 Problem 4.19 and 4.20](https://www.zybuluo.com/xunshuideyu/note/589640)
 - [x] [Exercise_12:Chapter5 Problem 5.1 and 5.3](https://www.zybuluo.com/xunshuideyu/note/597390)
+- [x] [Exercise_13:Chapter6 Problem 6.12](https://www.zybuluo.com/xunshuideyu/note/604776)
