@@ -1,4 +1,4 @@
- # compuational_physics_N2014301020153
+ **compuational_physics_N2014301020153**
 - [x] Exercise_01
 - [x] [Exercise_02](https://www.zybuluo.com/xunshuideyu/note/497144)
 - [x] [Exercise_03](https://www.zybuluo.com/xunshuideyu/note/512776)
